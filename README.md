@@ -5,7 +5,7 @@ Following graduation, I worked in customer analytics for General Motors.
 I am currently attending a full-stack programming course through the University of Texas at Austin.  
 
 - ⚒️I’m currently working on completing my full-stack coursework at UT. 
-- 🏫I’m currently learning advanced CSS
+- 🏫I’m currently learning advanced CSS and git principles. 
 - 📫 w.ziebert@gmail.com
 - ⚡ Fun fact: I love brazilian jiu jitsu 🥋, surfing🏄‍♂️, and fishing  🎣. 
 <!--
