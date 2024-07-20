@@ -7,7 +7,6 @@ I am currently attending a full-stack programming course through the University 
 - ⚒️I’m currently working on completing my full-stack coursework through UT Austin. 
 - 🏫I’m currently getting comfortable interacting with DOM elements and interacting with server-side APIs. 
 - 📫 w.ziebert@gmail.com
-- ⚡ Fun fact: I love brazilian jiu jitsu 🥋, surfing🏄‍♂️, and fishing  🎣. ](url)
-<!--
-**wzieb/wzieb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚡ Fun fact: I love brazilian jiu jitsu 🥋, surfing🏄‍♂️, and fishing  🎣. 
+<!--**wzieb/wzieb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
